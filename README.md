@@ -41,6 +41,8 @@ Projekt implementuje několik úrovní ukládání a načítání dat, aby infor
 
 - [💾 Zdrojové kódy (ProjectFilms)](./ProjectFilms)
 
+---
+
 ## Shrnutí funkcionality
 
 - ✅ Objektový návrh (dědičnost, polymorfismus)
